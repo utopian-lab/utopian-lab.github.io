@@ -4,10 +4,12 @@
 # Site settings
 title: Utopian Lab
 description: |
-  To help organizations to discover their inner potential, so that,
-  they can do the things that will help them to unleash such potential.
-  We use strategic planning, data analysis, and knowledge transference
-  as way to achieve such goal.
+  We believe in the inner potential of organizations. Everything we do, 
+  we believe in doing things allowing for impacting the people who we work with.
+  We help organizations to see problems from unusual perspectives and We help them to 
+  create products and services allowing them for making decisions on behalf of their 
+  customer needs. As result, We use strategic planning, data analysis, and knowledge 
+  transference as way to achieve such goal
 owner: Utopian Lab # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: alexisrodgtz@domain.com
